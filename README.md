@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @githashem</h1>
+<h1 align="center">Hi 👋, I'm @thehashem</h1>
 
 [comment]: <> (<h3 align="center">subtitle</h3>)
 
@@ -30,5 +30,5 @@
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=githashem&show_icons=true&locale=en&layout=compact" alt="githashem" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thehashem&show_icons=true&locale=en&layout=compact" alt="thehashem" />
 </p>
