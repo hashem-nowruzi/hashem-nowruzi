@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @thehashem</h1>
+<h1 align="center">Hi 👋, I'm @githashem</h1>
 
 [comment]: <> (<h3 align="center">subtitle</h3>)
 
