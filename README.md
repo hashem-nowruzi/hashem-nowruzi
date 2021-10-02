@@ -29,4 +29,5 @@
     </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=githashem&show_icons=true&locale=en" alt="githashem" /></p>
+| ![Mohammad Hashem Nowruzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=githashem&show_icons=true&hide_border=True) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githashem&langs_count=3&hide_border=True) |
+| ------------- | ------------- |
