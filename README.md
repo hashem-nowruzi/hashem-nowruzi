@@ -2,7 +2,7 @@
 
 [comment]: <> (<h3 align="center">subtitle</h3>)
 
-[comment]: <> (- 🌱 I’m currently learning **Frameworks**)
+- 🌱 I’m currently learning **Django**
 
 [comment]: <> (- 🔭 I’m currently working on [project name]&#40;project link&#41;)
 
