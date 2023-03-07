@@ -2,7 +2,7 @@
 
 [comment]: <> (<h3 align="center">subtitle</h3>)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django** and **JavaScript**
 
 [comment]: <> (- 🔭 I’m currently working on [project name]&#40;project link&#41;)
 
