@@ -17,9 +17,9 @@
 <div>
     <img src="https://raw.githubusercontent.com/hashem-nowruzi/hashem-nowruzi/main/assets/python.svg" alt="python" width="40px" height="40px">
     <img src="https://raw.githubusercontent.com/hashem-nowruzi/hashem-nowruzi/main/assets/django.svg" alt="django" width="40px" height="40px">
-    <img src="https://raw.githubusercontent.com/hashem-nowruzi/hashem-nowruzi/main/assets/git.svg" alt="git" width="40px" height="40px">
     <img src="https://raw.githubusercontent.com/hashem-nowruzi/hashem-nowruzi/main/assets/html.svg" alt="html5" width="40px" height="40px">
     <img src="https://raw.githubusercontent.com/hashem-nowruzi/hashem-nowruzi/main/assets/css.svg" alt="css3" width="40px" height="40px">
-    <img src="https://raw.githubusercontent.com/hashem-nowruzi/hashem-nowruzi/main/assets/github.svg" alt="github" width="40px" height="40px">
     <img src="https://raw.githubusercontent.com/hashem-nowruzi/hashem-nowruzi/main/assets/javascript.svg" alt="javascript" width="40px" height="40px">
+    <img src="https://raw.githubusercontent.com/hashem-nowruzi/hashem-nowruzi/main/assets/git.svg" alt="git" width="40px" height="40px">
+    <img src="https://raw.githubusercontent.com/hashem-nowruzi/hashem-nowruzi/main/assets/github.svg" alt="github" width="40px" height="40px">
 </div>
