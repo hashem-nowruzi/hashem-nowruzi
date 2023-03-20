@@ -17,9 +17,6 @@
 <div>
     <img src="https://raw.githubusercontent.com/hashem-nowruzi/hashem-nowruzi/main/assets/python.svg" alt="python" width="40px" height="40px">
     <img src="https://raw.githubusercontent.com/hashem-nowruzi/hashem-nowruzi/main/assets/django.svg" alt="django" width="40px" height="40px">
-<!--     <img src="https://raw.githubusercontent.com/hashem-nowruzi/hashem-nowruzi/main/assets/pandas.svg" alt="pandas" width="40px" height="40px">
-    <img src="https://raw.githubusercontent.com/hashem-nowruzi/hashem-nowruzi/main/assets/numpy.svg" alt="numpy" width="40px" height="40px">
-    <img src="https://raw.githubusercontent.com/hashem-nowruzi/hashem-nowruzi/main/assets/matplotlib.svg" alt="matplotlib" width="40px" height="40px"> -->
     <img src="https://raw.githubusercontent.com/hashem-nowruzi/hashem-nowruzi/main/assets/git.svg" alt="git" width="40px" height="40px">
     <img src="https://raw.githubusercontent.com/hashem-nowruzi/hashem-nowruzi/main/assets/html.svg" alt="html5" width="40px" height="40px">
     <img src="https://raw.githubusercontent.com/hashem-nowruzi/hashem-nowruzi/main/assets/css.svg" alt="css3" width="40px" height="40px">
