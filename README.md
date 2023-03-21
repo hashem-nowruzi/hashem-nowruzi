@@ -10,7 +10,7 @@
 
 [comment]: <> (- 🤝 I’m looking for help with [project name]&#40;project link&#41;)
 
-| ![Muhammad Hashem Nowruzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashem-nowruzi&show_icons=true&hide_border=True&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashem-nowruzi&langs_count=3&hide_border=True) |
+| [![Muhammad Hashem Nowruzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashem-nowruzi&show_icons=true&hide_border=True&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashem-nowruzi&langs_count=5&layout=compact&hide_border=True&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
 
 ### Languages and Tools:
