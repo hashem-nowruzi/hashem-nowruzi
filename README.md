@@ -22,4 +22,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/hashem-nowruzi/hashem-nowruzi/main/assets/javascript.svg" alt="javascript" width="40px" height="40px"></a>
     <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/hashem-nowruzi/hashem-nowruzi/main/assets/git.svg" alt="git" width="40px" height="40px"></a>
     <a href="https://github.com/"><img src="https://raw.githubusercontent.com/hashem-nowruzi/hashem-nowruzi/main/assets/github.svg" alt="github" width="40px" height="40px"></a>
+    <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/hashem-nowruzi/hashem-nowruzi/main/assets/vscode.svg" alt="vscode" width="40px" height="40px"></a>
+    <a href="https://www.jetbrains.com/pycharm/"><img src="https://raw.githubusercontent.com/hashem-nowruzi/hashem-nowruzi/main/assets/pycharm.svg" alt="pycharm" width="40px" height="40px"></a>
 </div>
