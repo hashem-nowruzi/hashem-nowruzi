@@ -1,15 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hashem</h1>
 
-[comment]: <> (<h3 align="center">subtitle</h3>)
-
-- 🌱 I’m currently learning **Django** and **JavaScript**
-
-[comment]: <> (- 🔭 I’m currently working on [project name]&#40;project link&#41;)
-
-[comment]: <> (- 👯 I’m looking to collaborate on [project name]&#40;project link&#41;)
-
-[comment]: <> (- 🤝 I’m looking for help with [project name]&#40;project link&#41;)
-
 | [![Muhammad Hashem Nowruzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashem-nowruzi&show_icons=true&hide_border=True&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashem-nowruzi&langs_count=5&layout=compact&hide_border=True&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
 
